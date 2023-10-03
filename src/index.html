@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Memory Cards Game</title>
+    <link rel="icon" type="image/x-icon" href="../assets/memory.png">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Caveat:wght@400;700&family=Inter:wght@400;500;700&family=Montserrat:wght@400;600;700&family=Roboto:wght@100;400;700&display=swap" rel="stylesheet">
+  </head>
+  <body>
+    <h1>Memory Cards Game</h1>
+    <div class="cards-container"></div>
+    <div class="score-container">
+      <p>Score: <span class="score"></span></p>
+      <p>Remaining pairs: <span class="pairs"></span></p>   
+    </div>
+
+   <div class="actions">
+      <div id="timer" class="timer-container">
+        <span class="minutes">01</span>:<span class="seconds">00</span>
+        <div id="timer-message"></div>
+        <div id="winner-message"></div>
+      </div>
+
+      <button id="startButton">Start</button>
+      <button id="restartButton" onclick="restart()">Restart</button>
+    </div>
+   
+    <script src="main.js" defer></script>
+  </body>
+</html>
