@@ -10,7 +10,7 @@
 
 ## Introduction
 
-Welcome to Memore Cards Game! This is a simple memory card matching game created using vanilla JavaScript, HTML, and CSS. The game is designed with an easy level of complexity, featuring a 4x4 game board.
+Welcome to Memory Cards Game! This is a simple memory card matching game created using vanilla JavaScript, HTML, and CSS. The game is designed with an easy level of complexity, featuring a 4x4 game board.
 
 ## How to Play
 The goal of the game is to match all the pairs of cards.
@@ -28,13 +28,13 @@ The goal of the game is to match all the pairs of cards.
 **Restart: To restart the game, simply click the "Restart" button at any time.**
 
 ## How to Start 
-To get started with the Memore Cards Game, follow these steps:
+To get started with the Memory Cards Game, follow these steps:
 
 * Clone this repository to your local machine or download the ZIP file.
 * Open the project folder in your code editor.
 * Open the index.html file in your web browser to start playing the game.
 
-**Enjoy playing the Memore Cards Game! If you have any suggestions or feedback, feel free to open an issue or contribute to the project. Have fun!**
+**Enjoy playing the Memory Cards Game! If you have any suggestions or feedback, feel free to open an issue or contribute to the project. Have fun!**
 
 ![](https://github.com/novak-k/memory_cards_game/blob/develop/screenshots/1.png)
 ![](https://github.com/novak-k/memory_cards_game/blob/develop/screenshots/2.png)
